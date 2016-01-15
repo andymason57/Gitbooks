@@ -4,4 +4,5 @@
 * Kafka
 * Flink
 * memsql
+* spark
 
