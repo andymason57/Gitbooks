@@ -12,4 +12,5 @@
 * Elasticsearch
    * Install
 * Kibana
+   * Install
 
