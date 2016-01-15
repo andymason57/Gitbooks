@@ -8,6 +8,7 @@
 * memsql
    * Install
 * spark
+   * Install
 * Elasticsearch
 * Kibana
 
