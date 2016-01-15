@@ -2,6 +2,7 @@
 
 * Summary
 * Kafka
+   * Install
 * Flink
 * memsql
 * spark
