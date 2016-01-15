@@ -10,5 +10,6 @@
 * spark
    * Install
 * Elasticsearch
+   * Install
 * Kibana
 
