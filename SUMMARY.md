@@ -6,6 +6,7 @@
 * Flink
    * Install
 * memsql
+   * Install
 * spark
 * Elasticsearch
 * Kibana
