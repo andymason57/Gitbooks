@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Python
 * Summary
 * Kafka
    * Install
