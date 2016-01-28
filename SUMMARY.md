@@ -15,5 +15,5 @@
    * Install
 * Kibana
    * Install
-* Python
+* [Python](python.md)
 
