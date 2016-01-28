@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Summary](summary.md)
+* [Streaming](summary.md)
 * Kafka
    * Install
 * Flink
