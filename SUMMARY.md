@@ -15,4 +15,5 @@
    * Install
 * Kibana
    * Install
+* Python
 
