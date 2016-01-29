@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Streaming](summary.md)
-   * Avro
 * Kafka
    * Install
+* Avro
 * Flink
    * Install
 * memsql
