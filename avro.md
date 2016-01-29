@@ -9,6 +9,7 @@ Also jSON based data encoder - human readable  useful for prototyping and debugg
 
 You can learn more about Avro schemas and types from the specification, but for now let's start with a simple schema example, user.avsc:
 
+```
 {"namespace": "example.avro",
  "type": "record",
  "name": "User",
@@ -17,7 +18,7 @@ You can learn more about Avro schemas and types from the specification, but for 
      {"name": "favorite_number",  "type": ["int", "null"]},
      {"name": "favorite_color", "type": ["string", "null"]}
  ]
-}
+}```
       
 This schema defines a record representing a hypothetical user. (Note that a schema file can only contain a single schema definition.) At minimum, a record definition must include its type ("type": "record"), a name ("name": "User"), and fields, in this case name, favorite_number, and favorite_color. We also define a namespace ("namespace": "example.avro"), which together with the name attribute defines the "full name" of the schema (example.avro.User in this case).
 
