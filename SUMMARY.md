@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Streaming](summary.md)
-   * [Avro](avro.md)
 * Kafka
    * Install
+* [Avro](avro.md)
 * Flink
    * Install
 * memsql
