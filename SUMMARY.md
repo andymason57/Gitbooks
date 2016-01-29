@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Streaming](summary.md)
+   * Avro
 * Kafka
    * Install
 * Flink
