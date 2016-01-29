@@ -4,7 +4,6 @@
 * [Streaming](summary.md)
 * Kafka
    * Install
-* Avro
 * Flink
    * Install
 * memsql
