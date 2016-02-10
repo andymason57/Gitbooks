@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Streaming](summary.md)
-* Kafka
+* [Kafka](kafka.md)
    * Install
 * [Avro](avro.md)
 * Flink
