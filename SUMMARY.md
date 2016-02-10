@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Streaming](summary.md)
 * [Kafka](kafka.md)
-   * Install
+   * [Install](install.md)
    * [From book Learning Kafka 2nd edition](from_book_learning_kafka_2nd_edition.md)
 * [Avro](avro.md)
 * Flink
