@@ -4,6 +4,7 @@
 * [Streaming](summary.md)
 * [Kafka](kafka.md)
    * Install
+   * From book Learning Kafka 2nd edition
 * [Avro](avro.md)
 * Flink
    * Install
