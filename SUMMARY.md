@@ -17,5 +17,5 @@
 * Kibana
    * Install
 * [Python](python.md)
-* NiFi
+* [NiFi](nifi.md)
 
