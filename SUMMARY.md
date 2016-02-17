@@ -19,4 +19,5 @@
 * [Python](python.md)
 * [NiFi](nifi.md)
    * Install
+* Google cloud
 
