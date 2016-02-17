@@ -10,7 +10,7 @@
    * Install
 * memsql
    * Install
-* spark
+* [spark](spark.md)
    * Install
 * [Elasticsearch](elasticsearch.md)
    * Install
