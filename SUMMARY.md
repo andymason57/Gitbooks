@@ -20,4 +20,5 @@
 * [NiFi](nifi.md)
    * Install
 * [Google cloud](google_cloud.md)
+* LIst of ports for Vitual machine
 
