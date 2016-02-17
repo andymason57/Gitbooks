@@ -14,7 +14,7 @@
    * Install
 * [Elasticsearch](elasticsearch.md)
    * Install
-* Kibana
+* [Kibana](kibana.md)
    * Install
 * [Python](python.md)
 * [NiFi](nifi.md)
