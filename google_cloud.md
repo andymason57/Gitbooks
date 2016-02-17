@@ -2,7 +2,7 @@
 # 
 
 
-### Download Google cloud SDK: 
+## Download Google cloud SDK: 
 https://cloud.google.com/sdk/
 
 Use 3 X f1-micro server instances to test = 10$ per hour
@@ -34,22 +34,31 @@ Finally, verify the new version is installed:
 
 java -version
 
+###Set up JAVA_HOME
+
+
+export JAVA_HOME = /opt/jdk/jdk1.8.0_65/bin/java
+PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
+export JAVA_HOME
 
 
 
-### To create an instance
+
+## Google compute commands 
+
+### Create an instance:
 
 gcloud compute instances create node1 node2 node3 --custom-cpu 2 --custom-memory 8 --description firstTrialSetup --image ubuntu-14-04 --zone europe-west1-d 
 
-### gcloud compute instances delete : 
+### Delete an instance: 
 
 gcloud compute instances delete
 
 
-### connect to instance:
+### connect to an instance:
 gcloud compute ssh server_name --zone zone_name
 
-### Copy files from localto remote: 
+### Copy files from local to remote: 
 
 To copy the local file "file-1" to "my-instance" in the "us-central1-a" zone, you can use:
 
