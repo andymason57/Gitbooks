@@ -24,3 +24,13 @@ Removes last item from list
 
 list.pop() 
  
+
+
+# useful tips : 
+
+Equivalent of FileNotFoundError (Python3) in Python 2 is 
+
+try:
+  ...
+ except EnvironmentError as e: 
+    print(os.strerror(e.errno))
