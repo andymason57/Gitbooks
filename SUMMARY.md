@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-   * screen
 * [Streaming](summary.md)
 * [Kafka](kafka.md)
    * [Install](install.md)
    * [From book Learning Kafka 2nd edition](from_book_learning_kafka_2nd_edition.md)
+* screen
 * [Avro](avro.md)
 * [Flink](flink.md)
    * Install
